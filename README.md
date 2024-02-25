@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourav Pathak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coder" width="400" src="https://github.com/27Sourav/27Sourav/assets/129369241/d65d93c3-24d5-4d9e-8506-984f6d35057b
-">
+<img align="right" alt="coder" width="400" src="https://github.com/27Sourav/27Sourav/assets/129369241/d65d93c3-24d5-4d9e-8506-984f6d35057b">
 <p align="left"> <img src="https://github.com/27Sourav/27Sourav/assets/129369241/8fd5d33f-a86a-4099-99b5-2dcdcaf69741)
 "/> </p>
 
